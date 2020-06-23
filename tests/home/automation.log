@@ -1,0 +1,9 @@
+06/19/2020 08:57:53 PM - LoginPage - INFO: Element Found with locator: Login and locator_type: link
+06/19/2020 08:57:53 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+06/19/2020 08:58:03 PM - LoginPage - INFO: Element Not Found with locator: user_email and locator_type: id
+06/19/2020 09:01:16 PM - LoginPage - INFO: Element Found with locator: Login and locator_type: link
+06/19/2020 09:01:16 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+06/19/2020 09:01:26 PM - LoginPage - INFO: Element Not Found with locator: user_email and locator_type: id
+06/19/2020 09:18:03 PM - LoginPage - INFO: Element Found with locator: Login and locator_type: link
+06/19/2020 09:18:04 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+06/19/2020 09:18:14 PM - LoginPage - INFO: Element Not Found with locator: user_email and locator_type: id

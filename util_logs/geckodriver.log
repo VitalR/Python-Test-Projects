@@ -1,0 +1,44 @@
+1592344876239	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/q9/cyxphmfx66j1c82770p2t3rr0000gq/T/rust_mozprofileLfGFko"
+1592344879222	Marionette	INFO	Listening on port 49599
+1592344879318	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1592344899392	Marionette	INFO	Stopped listening on port 49599
+1592344902800	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/q9/cyxphmfx66j1c82770p2t3rr0000gq/T/rust_mozprofilerIx89K"
+1592344904965	Marionette	INFO	Listening on port 49802
+1592344904983	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592344941228	Marionette	INFO	Stopped listening on port 49802
+1592344982613	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/q9/cyxphmfx66j1c82770p2t3rr0000gq/T/rust_mozprofileq4poJj"
+1592344984918	Marionette	INFO	Listening on port 50220
+1592344984989	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592345015649	Marionette	INFO	Stopped listening on port 50220
+1592345017994	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/q9/cyxphmfx66j1c82770p2t3rr0000gq/T/rust_mozprofileLQA12b"
+1592345020215	Marionette	INFO	Listening on port 50461
+1592345020276	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592345283157	Marionette	INFO	Stopped listening on port 50461
+1592345394966	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/q9/cyxphmfx66j1c82770p2t3rr0000gq/T/rust_mozprofile8lRm8C"
+1592345397535	Marionette	INFO	Listening on port 52101
+1592345397550	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592345429307	Marionette	INFO	Stopped listening on port 52101
+1592345432718	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/q9/cyxphmfx66j1c82770p2t3rr0000gq/T/rust_mozprofileCgdI0C"
+1592345434965	Marionette	INFO	Listening on port 52352
+1592345434992	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1592345463024	Marionette	INFO	Stopped listening on port 52352
+1592380717712	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/q9/cyxphmfx66j1c82770p2t3rr0000gq/T/rust_mozprofileGj50Cc"
+1592380720373	Marionette	INFO	Listening on port 57704
+1592380720403	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1592380737818	Marionette	INFO	Stopped listening on port 57704
+1592380741179	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/q9/cyxphmfx66j1c82770p2t3rr0000gq/T/rust_mozprofilecYLgtd"
+1592380743570	Marionette	INFO	Listening on port 57895
+1592380743674	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592384586601	Marionette	INFO	Stopped listening on port 57895
+1592413913470	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/q9/cyxphmfx66j1c82770p2t3rr0000gq/T/rust_mozprofilefvi7IE"
+1592413916785	Marionette	INFO	Listening on port 58825
+1592413916888	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1592413934515	Marionette	INFO	Stopped listening on port 58825
+1592413937866	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/q9/cyxphmfx66j1c82770p2t3rr0000gq/T/rust_mozprofilesvU6zz"
+1592413940831	Marionette	INFO	Listening on port 59023
+1592413940880	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592414371411	Marionette	INFO	Stopped listening on port 59023
