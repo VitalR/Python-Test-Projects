@@ -3581,3 +3581,121 @@ selenium.common.exceptions.TimeoutException: Message:
 06/22/2020 10:52:33 PM - NavigationPage - INFO: Clicked on element with locator: gravatar locatorType: class
 06/22/2020 10:52:33 PM - LoginPage - INFO: Element found with locator: user-signout and locator_type: class
 06/22/2020 10:52:40 PM - LoginPage - INFO: Clicked on element with locator: user-signout locatorType: class
+06/23/2020 07:37:31 PM - LoginPage - INFO: Element found with locator: Login and locator_type: link
+06/23/2020 07:37:31 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+06/23/2020 07:37:33 PM - LoginPage - INFO: Element found with locator: user_email and locator_type: id
+06/23/2020 07:37:33 PM - LoginPage - INFO: Element found with locator: user_password and locator_type: id
+06/23/2020 07:37:33 PM - LoginPage - INFO: Element found with locator: user_email and locator_type: id
+06/23/2020 07:37:34 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+06/23/2020 07:37:34 PM - LoginPage - INFO: Element found with locator: user_password and locator_type: id
+06/23/2020 07:37:34 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+06/23/2020 07:37:34 PM - LoginPage - INFO: Element found with locator: commit and locator_type: name
+06/23/2020 07:37:36 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+06/23/2020 07:37:46 PM - HomePage - INFO: Element not found with locator: Login and locator_type: link
+06/23/2020 07:37:47 PM - HomePage - INFO: Element not found
+06/23/2020 07:37:47 PM - HomePage - INFO: Element found with locator: Practice and locator_type: link
+06/23/2020 07:37:47 PM - HomePage - INFO: Element Found
+06/23/2020 07:37:57 PM - HomePage - INFO: Element not found with locator: navbar-brand header-logo and locator_type: class
+06/23/2020 07:37:57 PM - HomePage - INFO: Element not found
+06/23/2020 07:38:07 PM - HomePage - INFO: Element not found with locator: headline and locator_type: class
+06/23/2020 07:38:07 PM - HomePage - INFO: Element not found
+06/23/2020 07:38:17 PM - HomePage - INFO: Element not found with locator: btn btn-md btn-primary and locator_type: class
+06/23/2020 07:38:17 PM - HomePage - INFO: Element not found
+06/23/2020 07:38:27 PM - HomePage - INFO: Element not found with locator: subtitle and locator_type: class
+06/23/2020 07:38:27 PM - HomePage - INFO: Element not found
+06/23/2020 07:38:37 PM - HomePage - INFO: Element not found with locator: //h2[contains(text(),'Featured Courses')] and locator_type: xpath
+06/23/2020 07:38:37 PM - HomePage - INFO: Element not found
+06/23/2020 08:42:48 PM - HomePage - INFO: Element found with locator: Login and locator_type: link
+06/23/2020 08:42:48 PM - HomePage - INFO: Element Found
+06/23/2020 08:42:48 PM - HomePage - INFO: Element found with locator: Practice and locator_type: link
+06/23/2020 08:42:48 PM - HomePage - INFO: Element Found
+06/23/2020 08:42:58 PM - HomePage - INFO: Element not found with locator: navbar-brand header-logo and locator_type: class
+06/23/2020 08:42:58 PM - HomePage - INFO: Element not found
+06/23/2020 08:42:58 PM - HomePage - INFO: Element found with locator: headline and locator_type: class
+06/23/2020 08:42:58 PM - HomePage - INFO: Element Found
+06/23/2020 08:43:08 PM - HomePage - INFO: Element not found with locator: btn btn-md btn-primary and locator_type: class
+06/23/2020 08:43:08 PM - HomePage - INFO: Element not found
+06/23/2020 08:43:08 PM - HomePage - INFO: Element found with locator: subtitle and locator_type: class
+06/23/2020 08:43:08 PM - HomePage - INFO: Element Found
+06/23/2020 08:43:08 PM - HomePage - INFO: Element found with locator: //h2[contains(text(),'Featured Courses')] and locator_type: xpath
+06/23/2020 08:43:08 PM - HomePage - INFO: Element Found
+06/23/2020 08:45:47 PM - HomePage - INFO: Element found with locator: Login and locator_type: link
+06/23/2020 08:45:47 PM - HomePage - INFO: Element Found
+06/23/2020 08:45:47 PM - HomePage - INFO: Element found with locator: Practice and locator_type: link
+06/23/2020 08:45:47 PM - HomePage - INFO: Element Found
+06/23/2020 08:45:57 PM - HomePage - INFO: Element not found with locator: navbar-brand header-logo and locator_type: class
+06/23/2020 08:45:57 PM - HomePage - INFO: Element not found
+06/23/2020 08:45:57 PM - HomePage - INFO: Element found with locator: headline and locator_type: class
+06/23/2020 08:45:57 PM - HomePage - INFO: Element Found
+06/23/2020 08:46:07 PM - HomePage - INFO: Element not found with locator: btn btn-md btn-primary and locator_type: class
+06/23/2020 08:46:07 PM - HomePage - INFO: Element not found
+06/23/2020 08:46:07 PM - HomePage - INFO: Element found with locator: subtitle and locator_type: class
+06/23/2020 08:46:07 PM - HomePage - INFO: Element Found
+06/23/2020 08:46:07 PM - HomePage - INFO: Element found with locator: //h2[contains(text(),'Featured Courses')] and locator_type: xpath
+06/23/2020 08:46:07 PM - HomePage - INFO: Element Found
+06/23/2020 08:51:17 PM - HomePage - INFO: Element found with locator: Login and locator_type: link
+06/23/2020 08:51:17 PM - HomePage - INFO: Element Found
+06/23/2020 08:51:17 PM - HomePage - INFO: Element found with locator: Practice and locator_type: link
+06/23/2020 08:51:17 PM - HomePage - INFO: Element Found
+06/23/2020 08:51:17 PM - HomePage - INFO: Element found with locator: .navbar-brand and locator_type: css
+06/23/2020 08:51:17 PM - HomePage - INFO: Element Found
+06/23/2020 08:51:17 PM - HomePage - INFO: Element found with locator: headline and locator_type: class
+06/23/2020 08:51:17 PM - HomePage - INFO: Element Found
+06/23/2020 08:51:17 PM - HomePage - INFO: Element found with locator: .btn.btn-md.btn-primary and locator_type: css
+06/23/2020 08:51:17 PM - HomePage - INFO: Element Found
+06/23/2020 08:51:17 PM - HomePage - INFO: Element found with locator: subtitle and locator_type: class
+06/23/2020 08:51:17 PM - HomePage - INFO: Element Found
+06/23/2020 08:51:17 PM - HomePage - INFO: Element found with locator: //h2[contains(text(),'Featured Courses')] and locator_type: xpath
+06/23/2020 08:51:17 PM - HomePage - INFO: Element Found
+06/23/2020 08:53:42 PM - LoginPage - INFO: Element found with locator: Login and locator_type: link
+06/23/2020 08:53:43 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+06/23/2020 08:53:46 PM - LoginPage - INFO: Element found with locator: user_email and locator_type: id
+06/23/2020 08:53:46 PM - LoginPage - INFO: Element found with locator: user_password and locator_type: id
+06/23/2020 08:53:46 PM - LoginPage - INFO: Element found with locator: user_email and locator_type: id
+06/23/2020 08:53:46 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+06/23/2020 08:53:46 PM - LoginPage - INFO: Element found with locator: user_password and locator_type: id
+06/23/2020 08:53:47 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+06/23/2020 08:53:47 PM - LoginPage - INFO: Element found with locator: commit and locator_type: name
+06/23/2020 08:53:49 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+06/23/2020 08:53:49 PM - NavigationPage - INFO: Element found with locator: gravatar and locator_type: class
+06/23/2020 08:53:49 PM - NavigationPage - INFO: Clicked on element with locator: gravatar locatorType: class
+06/23/2020 08:53:49 PM - LoginPage - INFO: Element found with locator: user-signout and locator_type: class
+06/23/2020 08:53:49 PM - LoginPage - INFO: Clicked on element with locator: user-signout locatorType: class
+06/23/2020 08:53:51 PM - HomePage - INFO: Element found with locator: Login and locator_type: link
+06/23/2020 08:53:51 PM - HomePage - INFO: Element Found
+06/23/2020 08:54:01 PM - NavigationPage - INFO: Element not found with locator: gravatar and locator_type: class
+06/23/2020 08:54:01 PM - NavigationPage - INFO: Cannot click on the element with locator: gravatar locatorType: class
+06/23/2020 08:54:11 PM - LoginPage - INFO: Element not found with locator: user-signout and locator_type: class
+06/23/2020 08:54:11 PM - LoginPage - INFO: Cannot click on the element with locator: user-signout locatorType: class
+06/23/2020 08:54:11 PM - HomePage - INFO: Element found with locator: Practice and locator_type: link
+06/23/2020 08:54:11 PM - HomePage - INFO: Element Found
+06/23/2020 08:54:21 PM - NavigationPage - INFO: Element not found with locator: gravatar and locator_type: class
+06/23/2020 08:54:21 PM - NavigationPage - INFO: Cannot click on the element with locator: gravatar locatorType: class
+06/23/2020 08:54:31 PM - LoginPage - INFO: Element not found with locator: user-signout and locator_type: class
+06/23/2020 08:54:31 PM - LoginPage - INFO: Cannot click on the element with locator: user-signout locatorType: class
+06/23/2020 08:54:31 PM - HomePage - INFO: Element found with locator: .navbar-brand and locator_type: css
+06/23/2020 08:54:31 PM - HomePage - INFO: Element Found
+06/23/2020 08:54:41 PM - NavigationPage - INFO: Element not found with locator: gravatar and locator_type: class
+06/23/2020 08:54:41 PM - NavigationPage - INFO: Cannot click on the element with locator: gravatar locatorType: class
+06/23/2020 08:54:51 PM - LoginPage - INFO: Element not found with locator: user-signout and locator_type: class
+06/23/2020 08:54:51 PM - LoginPage - INFO: Cannot click on the element with locator: user-signout locatorType: class
+06/23/2020 08:54:51 PM - HomePage - INFO: Element found with locator: headline and locator_type: class
+06/23/2020 08:54:51 PM - HomePage - INFO: Element Found
+06/23/2020 08:55:01 PM - NavigationPage - INFO: Element not found with locator: gravatar and locator_type: class
+06/23/2020 08:55:01 PM - NavigationPage - INFO: Cannot click on the element with locator: gravatar locatorType: class
+06/23/2020 08:55:11 PM - LoginPage - INFO: Element not found with locator: user-signout and locator_type: class
+06/23/2020 08:55:11 PM - LoginPage - INFO: Cannot click on the element with locator: user-signout locatorType: class
+06/23/2020 08:55:11 PM - HomePage - INFO: Element found with locator: .btn.btn-md.btn-primary and locator_type: css
+06/23/2020 08:55:11 PM - HomePage - INFO: Element Found
+06/23/2020 08:55:21 PM - NavigationPage - INFO: Element not found with locator: gravatar and locator_type: class
+06/23/2020 08:55:21 PM - NavigationPage - INFO: Cannot click on the element with locator: gravatar locatorType: class
+06/23/2020 08:55:31 PM - LoginPage - INFO: Element not found with locator: user-signout and locator_type: class
+06/23/2020 08:55:31 PM - LoginPage - INFO: Cannot click on the element with locator: user-signout locatorType: class
+06/23/2020 08:55:31 PM - HomePage - INFO: Element found with locator: subtitle and locator_type: class
+06/23/2020 08:55:31 PM - HomePage - INFO: Element Found
+06/23/2020 08:55:41 PM - NavigationPage - INFO: Element not found with locator: gravatar and locator_type: class
+06/23/2020 08:55:41 PM - NavigationPage - INFO: Cannot click on the element with locator: gravatar locatorType: class
+06/23/2020 08:55:51 PM - LoginPage - INFO: Element not found with locator: user-signout and locator_type: class
+06/23/2020 08:55:51 PM - LoginPage - INFO: Cannot click on the element with locator: user-signout locatorType: class
+06/23/2020 08:55:51 PM - HomePage - INFO: Element found with locator: //h2[contains(text(),'Featured Courses')] and locator_type: xpath
+06/23/2020 08:55:51 PM - HomePage - INFO: Element Found
