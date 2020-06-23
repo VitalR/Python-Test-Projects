@@ -34,7 +34,7 @@ class HomePage(BasePage):
     def verify_headline_is_visible(self):
         return self.is_element_present(self._headline, locator_type='class')
 
-    def verify_sibtitle_is_visible(self):
+    def verify_subtitle_is_visible(self):
         return self.is_element_present(self._subtitle, locator_type='class')
 
     def verify_featured_courses_is_visible(self):

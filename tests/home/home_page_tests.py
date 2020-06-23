@@ -37,7 +37,7 @@ class HomePageTests(unittest.TestCase):
 
     @pytest.mark.run(order=5)
     def test_home_page_elements_05(self):
-        result = self.hp.verify_sibtitle_is_visible()
+        result = self.hp.verify_subtitle_is_visible()
         assert result == True
 
     @pytest.mark.run(order=6)
