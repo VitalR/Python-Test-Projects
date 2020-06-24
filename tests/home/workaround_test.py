@@ -6,7 +6,7 @@ from selenium import webdriver
 
 
 opt = webdriver.ChromeOptions()
-opt.add_argument('user-data-dir=/Users/vrodikov/Library/Application Support/Google/Chrome/Default')
+opt.add_argument('user-data-dir=/Users/Library/Application Support/Google/Chrome/Default')
 driver = webdriver.Chrome(options=opt, executable_path='/Users/vrodikov/PycharmProjects/letskodeit/resources/chromedriver')
 driver.implicitly_wait(10)
 base_url = 'https://letskodeit.teachable.com/'
