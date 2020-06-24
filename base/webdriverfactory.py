@@ -42,7 +42,7 @@ class WebDriverFactory():
             'WebDriver Instance'
         """
         opt = webdriver.ChromeOptions()
-        opt.add_argument('user-data-dir=/Users/vrodikov/Library/Application Support/Google/Chrome/Default')
+        opt.add_argument('user-data-dir=/Users/Library/Application Support/Google/Chrome/Default')
         # driver = webdriver.Chrome(options=opt, executable_path='resources/chromedriver')
         baseURL = "https://letskodeit.teachable.com/"
         if self.browser == "iexplorer":
