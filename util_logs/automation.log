@@ -1437,7 +1437,6 @@
 06/21/2020 04:50:16 PM - RegisterCoursesPage - INFO: Element not appeared on the web page
 06/21/2020 04:50:16 PM - RegisterCoursesPage - INFO: Element not displayed with locator:  locatorType: id
 06/21/2020 04:50:16 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: Enrolment Failed Verification
-06/21/2020 04:50:16 PM - TestStatus - INFO: Screeenshot save to directory /Users/vrodikov/PycharmProjects/letskodeit/base/../screenshots/
 06/21/2020 04:50:16 PM - TestStatus - ERROR: test_invalid_enrollment ### TEST FAILED
 06/21/2020 05:12:53 PM - LoginPage - INFO: Element found with locator: Login and locator_type: link
 06/21/2020 05:12:53 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
@@ -1471,7 +1470,7 @@
 06/21/2020 05:13:54 PM - RegisterCoursesPage - INFO: Element not appeared on the web page
 06/21/2020 05:13:54 PM - RegisterCoursesPage - INFO: Element not displayed with locator:  locatorType: id
 06/21/2020 05:13:54 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: Enrolment Failed Verification
-06/21/2020 05:13:54 PM - TestStatus - INFO: Screeenshot save to directory /Users/vrodikov/PycharmProjects/letskodeit/base/../screenshots/
+06/21/2020 05:13:54 PM - TestStatus - INFO: Screeenshot save to directory /Users/PycharmProjects/letskodeit/base/../screenshots/
 06/21/2020 05:13:54 PM - TestStatus - ERROR: test_invalid_enrollment ### TEST FAILED
 06/21/2020 05:54:04 PM - LoginPage - INFO: Element found with locator: Login and locator_type: link
 06/21/2020 05:54:04 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
@@ -1615,88 +1614,6 @@
 06/21/2020 06:40:00 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be visible
 06/21/2020 06:40:11 PM - RegisterCoursesPage - INFO: Element not appeared on the web page
 06/21/2020 06:40:11 PM - RegisterCoursesPage - ERROR: Exception Caught: Traceback (most recent call last):
-  File "/Users/vrodikov/PycharmProjects/letskodeit/base/selenium_driver.py", line 122, in send_data_when_ready
-    element = wait.until(EC.visibility_of_element_located((by_type, locator)))
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
-    raise TimeoutException(message, screen, stacktrace)
-selenium.common.exceptions.TimeoutException: Message: 
-
-
-06/21/2020 06:40:11 PM - RegisterCoursesPage - ERROR:   File "/Users/vrodikov/PycharmProjects/letskodeit/venv/bin/py.test", line 8, in <module>
-    sys.exit(main())
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/_pytest/config/__init__.py", line 125, in main
-    config=config
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/pluggy/hooks.py", line 286, in __call__
-    return self._hookexec(self, self.get_hookimpls(), kwargs)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/pluggy/manager.py", line 93, in _hookexec
-    return self._inner_hookexec(hook, methods, kwargs)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/pluggy/manager.py", line 87, in <lambda>
-    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/pluggy/callers.py", line 187, in _multicall
-    res = hook_impl.function(*args)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/_pytest/main.py", line 240, in pytest_cmdline_main
-    return wrap_session(config, _main)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/_pytest/main.py", line 191, in wrap_session
-    session.exitstatus = doit(config, session) or 0
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/_pytest/main.py", line 247, in _main
-    config.hook.pytest_runtestloop(session=session)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/pluggy/hooks.py", line 286, in __call__
-    return self._hookexec(self, self.get_hookimpls(), kwargs)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/pluggy/manager.py", line 93, in _hookexec
-    return self._inner_hookexec(hook, methods, kwargs)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/pluggy/manager.py", line 87, in <lambda>
-    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/pluggy/callers.py", line 187, in _multicall
-    res = hook_impl.function(*args)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/_pytest/main.py", line 272, in pytest_runtestloop
-    item.config.hook.pytest_runtest_protocol(item=item, nextitem=nextitem)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/pluggy/hooks.py", line 286, in __call__
-    return self._hookexec(self, self.get_hookimpls(), kwargs)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/pluggy/manager.py", line 93, in _hookexec
-    return self._inner_hookexec(hook, methods, kwargs)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/pluggy/manager.py", line 87, in <lambda>
-    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/pluggy/callers.py", line 187, in _multicall
-    res = hook_impl.function(*args)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/_pytest/runner.py", line 85, in pytest_runtest_protocol
-    runtestprotocol(item, nextitem=nextitem)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/_pytest/runner.py", line 100, in runtestprotocol
-    reports.append(call_and_report(item, "call", log))
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/_pytest/runner.py", line 186, in call_and_report
-    call = call_runtest_hook(item, when, **kwds)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/_pytest/runner.py", line 217, in call_runtest_hook
-    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/_pytest/runner.py", line 244, in from_call
-    result = func()
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/_pytest/runner.py", line 217, in <lambda>
-    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/pluggy/hooks.py", line 286, in __call__
-    return self._hookexec(self, self.get_hookimpls(), kwargs)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/pluggy/manager.py", line 93, in _hookexec
-    return self._inner_hookexec(hook, methods, kwargs)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/pluggy/manager.py", line 87, in <lambda>
-    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/pluggy/callers.py", line 187, in _multicall
-    res = hook_impl.function(*args)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/_pytest/runner.py", line 135, in pytest_runtest_call
-    item.runtest()
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/_pytest/unittest.py", line 231, in runtest
-    self._testcase(result=self)
-  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/unittest/case.py", line 676, in __call__
-    return self.run(*args, **kwds)
-  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/unittest/case.py", line 628, in run
-    testMethod()
-  File "/Users/vrodikov/PycharmProjects/letskodeit/tests/courses/register_courses_tests.py", line 21, in test_invalid_enrollment
-    self.courses.enroll_course(num='4567 1234 7890 1010', exp='1023', cvv='455', postal_code='452312')
-  File "/Users/vrodikov/PycharmProjects/letskodeit/pages/courses/register_courses_page.py", line 83, in enroll_course
-    self.enter_credit_card_information(num, exp, cvv, postal_code)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/pages/courses/register_courses_page.py", line 73, in enter_credit_card_information
-    self.enter_card_num(num)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/pages/courses/register_courses_page.py", line 46, in enter_card_num
-    self.send_data_when_ready(num, locator=self._cc_num, locator_type="css")
-  File "/Users/vrodikov/PycharmProjects/letskodeit/base/selenium_driver.py", line 136, in send_data_when_ready
-    self.log.error("".join(traceback.format_stack()))
-
 06/21/2020 06:40:11 PM - RegisterCoursesPage - INFO: Element list found with locator: //iframe and locator_type: xpath
 06/21/2020 06:40:11 PM - RegisterCoursesPage - INFO: Length of iframe list: 
 06/21/2020 06:40:11 PM - RegisterCoursesPage - INFO: 10
@@ -2695,89 +2612,11 @@ selenium.common.exceptions.TimeoutException: Message:
 06/22/2020 09:53:12 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be visible
 06/22/2020 09:53:23 PM - RegisterCoursesPage - INFO: Element not appeared on the web page
 06/22/2020 09:53:23 PM - RegisterCoursesPage - ERROR: Exception Caught: Traceback (most recent call last):
-  File "/Users/vrodikov/PycharmProjects/letskodeit/base/selenium_driver.py", line 122, in send_data_when_ready
+  File "/Users/PycharmProjects/base/selenium_driver.py", line 122, in send_data_when_ready
     element = wait.until(EC.visibility_of_element_located((by_type, locator)))
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+  File "/Users/PycharmProjects/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
     raise TimeoutException(message, screen, stacktrace)
 selenium.common.exceptions.TimeoutException: Message: 
-
-
-06/22/2020 09:53:23 PM - RegisterCoursesPage - ERROR:   File "/Users/vrodikov/PycharmProjects/letskodeit/venv/bin/py.test", line 8, in <module>
-    sys.exit(main())
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/_pytest/config/__init__.py", line 125, in main
-    config=config
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/pluggy/hooks.py", line 286, in __call__
-    return self._hookexec(self, self.get_hookimpls(), kwargs)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/pluggy/manager.py", line 93, in _hookexec
-    return self._inner_hookexec(hook, methods, kwargs)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/pluggy/manager.py", line 87, in <lambda>
-    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/pluggy/callers.py", line 187, in _multicall
-    res = hook_impl.function(*args)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/_pytest/main.py", line 240, in pytest_cmdline_main
-    return wrap_session(config, _main)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/_pytest/main.py", line 191, in wrap_session
-    session.exitstatus = doit(config, session) or 0
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/_pytest/main.py", line 247, in _main
-    config.hook.pytest_runtestloop(session=session)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/pluggy/hooks.py", line 286, in __call__
-    return self._hookexec(self, self.get_hookimpls(), kwargs)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/pluggy/manager.py", line 93, in _hookexec
-    return self._inner_hookexec(hook, methods, kwargs)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/pluggy/manager.py", line 87, in <lambda>
-    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/pluggy/callers.py", line 187, in _multicall
-    res = hook_impl.function(*args)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/_pytest/main.py", line 272, in pytest_runtestloop
-    item.config.hook.pytest_runtest_protocol(item=item, nextitem=nextitem)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/pluggy/hooks.py", line 286, in __call__
-    return self._hookexec(self, self.get_hookimpls(), kwargs)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/pluggy/manager.py", line 93, in _hookexec
-    return self._inner_hookexec(hook, methods, kwargs)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/pluggy/manager.py", line 87, in <lambda>
-    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/pluggy/callers.py", line 187, in _multicall
-    res = hook_impl.function(*args)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/_pytest/runner.py", line 85, in pytest_runtest_protocol
-    runtestprotocol(item, nextitem=nextitem)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/_pytest/runner.py", line 100, in runtestprotocol
-    reports.append(call_and_report(item, "call", log))
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/_pytest/runner.py", line 186, in call_and_report
-    call = call_runtest_hook(item, when, **kwds)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/_pytest/runner.py", line 217, in call_runtest_hook
-    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/_pytest/runner.py", line 244, in from_call
-    result = func()
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/_pytest/runner.py", line 217, in <lambda>
-    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/pluggy/hooks.py", line 286, in __call__
-    return self._hookexec(self, self.get_hookimpls(), kwargs)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/pluggy/manager.py", line 93, in _hookexec
-    return self._inner_hookexec(hook, methods, kwargs)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/pluggy/manager.py", line 87, in <lambda>
-    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/pluggy/callers.py", line 187, in _multicall
-    res = hook_impl.function(*args)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/_pytest/runner.py", line 135, in pytest_runtest_call
-    item.runtest()
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/_pytest/unittest.py", line 231, in runtest
-    self._testcase(result=self)
-  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/unittest/case.py", line 676, in __call__
-    return self.run(*args, **kwds)
-  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/unittest/case.py", line 628, in run
-    testMethod()
-  File "/Users/vrodikov/PycharmProjects/letskodeit/venv/lib/python3.7/site-packages/ddt.py", line 182, in wrapper
-    return func(self, *args, **kwargs)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/tests/courses/register_courses_csv_data_tests.py", line 30, in test_invalid_enrollment
-    self.courses.enroll_course(num=cc_num, exp=cc_exp, cvv=cc_vv, postal_code=postal_code)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/pages/courses/register_courses_page.py", line 84, in enroll_course
-    self.enter_credit_card_information(num, exp, cvv, postal_code)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/pages/courses/register_courses_page.py", line 74, in enter_credit_card_information
-    self.enter_card_num(num)
-  File "/Users/vrodikov/PycharmProjects/letskodeit/pages/courses/register_courses_page.py", line 47, in enter_card_num
-    self.send_data_when_ready(num, locator=self._cc_num, locator_type="css")
-  File "/Users/vrodikov/PycharmProjects/letskodeit/base/selenium_driver.py", line 136, in send_data_when_ready
-    self.log.error("".join(traceback.format_stack()))
 
 06/22/2020 09:53:23 PM - RegisterCoursesPage - INFO: Element list found with locator: //iframe and locator_type: xpath
 06/22/2020 09:53:23 PM - RegisterCoursesPage - INFO: Length of iframe list: 
